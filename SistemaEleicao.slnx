@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SistemaEleicao.Console/SistemaEleicao.Console.csproj" />
+  <Project Path="SistemaEleicao.Tests/SistemaEleicao.Tests.csproj" />
+</Solution>
